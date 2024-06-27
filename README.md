@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning Node.js + React.js, in addition to, prompt engineering<br>🎯 Goals: Master Node.js frameworks, contribute to open-source projects, build scalable web applications<br>🎲 Fun fact: I collect vintage vinyl records and enjoy restoring old turntables.<br><b>NOTE</b> : You can fork and contribute to any of the projects Handshake</p>
+<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning Node.js + React.js, in addition to, prompt engineering<br>🎯 Goals: Master Node.js frameworks, contribute to open-source projects, build scalable web applications<br>🎲 Fun fact: I collect vintage vinyl records and enjoy restoring old turntables.<br><br><b>NOTE</b> : You can fork and contribute to any of the projects 🤝</p>
 
 ###
 
