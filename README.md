@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Omar Assem and I'm a software engineer, from Egypt. Working currently as a full-stack web developer @nWeave</p>
+<p align="left">My name is Omar Assem and I'm a software engineer, from Egypt. Working currently as a full-stack web developer @nWeave.</p>
 
 ###
 
@@ -32,6 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="expressjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="jest logo"  />
   <img width="12" />
