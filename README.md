@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Omar Assem and I'm a software engineer, from Egypt. Currently, working currently as a full-stack web developer @nWeave.</p>
+<p align="left">My name is Omar Assem and I'm a software engineer, from Egypt. Currently, working as a full-stack web developer @nWeave.</p>
 
 ###
 
