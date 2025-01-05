@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="jest logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-original-wordmark.svg" height="40" alt="jest logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-original.svg" height="40" alt="jest logo"  />
   <img width="12" />
 </div>
 
