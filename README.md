@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Omar Assem and I'm a software engineer, working as a full-stack web developer @nWeave.</p>
+<p align="left">My name is Omar Assem and I'm a software engineer, working as a full-stack web developer.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015.<br>📚 I'm currently learning ASP.NET web development, in addition to, prompt engineering.<br>🎯 Goals: Master JS frameworks, contribute to open-source projects, and build scalable web applications.<br>🎲 Fun fact: I collect vintage vinyl records and enjoy restoring old turntables.<br><br><b>NOTE</b> : You can fork and contribute to any of the projects 🤝</p>
+<p align="left">✨ Creating bugs since 2015.<br>📚 I'm currently learning Node.js web development, in addition to, prompt engineering.<br>🎯 Goals: Master JS frameworks, contribute to open-source projects, and build scalable web applications.<br>🎲 Fun fact: I collect vintage vinyl records and enjoy restoring old turntables.<br><br><b>NOTE</b> : You can fork and contribute to any of the projects 🤝</p>
 
 ###
 
