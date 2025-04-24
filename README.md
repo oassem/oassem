@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Omar Assem and I'm a software engineer, working as a full-stack web developer.</p>
+<p align="left">My name is Omar Assem and I'm a mid-level software engineer, working as a full-stack web developer @VEGA located in KSA.</p>
 
 ###
 
