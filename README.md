@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Over 5 years of full-stack development, currently building a healthcare system with multi-tenant architecture and integrations like NPHIES.<br>📚 Currently diving deeper into Node.js development and exploring prompt engineering.<br>🎯 Goals: Master JS frameworks, contribute to open-source projects, and build scalable web applications.<br>🎲 Fun fact: I collect vintage vinyl records and enjoy restoring old turntables.<br><br><b>NOTE</b> : You can fork and contribute to any of the projects 🤝</p>
+<p align="left">✨ Over 5 years of full-stack development, currently building a healthcare system with multi-tenant architecture.<br>📚 Currently diving deeper into Node.js development and exploring prompt engineering.<br>🎯 Goals: Master JS frameworks, contribute to open-source projects, and build scalable web applications.<br>🎲 Fun fact: I collect vintage vinyl records and enjoy restoring old turntables.<br><br><b>NOTE</b> : You can fork and contribute to any of the projects 🤝</p>
 
 ###
 
@@ -29,6 +29,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
 </div>
 
 <h3>Backend</h3>
@@ -36,19 +44,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dotnet logo" />
 </div>
 
 <h3>Databases</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
 
 <h2 align="left">Connect With Me</h2>
 <div align="left">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" alt="Email" /></a>
+  <a href="https://linkedin.com/in/oassem"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:oghazaly96@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" alt="Email" /></a>
 </div>
 
 ###
