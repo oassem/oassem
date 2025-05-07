@@ -9,7 +9,7 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-  ✨ Over 5 years of full-stack development, currently working on a healthcare MVP featuring multi-tenant architecture.<br>
+  ✨ Over 5 years of full-stack development, currently working on a healthcare system featuring multi-tenant architecture.<br>
   📚 Diving deeper into Node.js and exploring prompt engineering.<br>
   🎯 Aiming to master JS frameworks, contribute to open-source healthcare projects, and build scalable web apps.<br>
   🎲 Fun fact: I collect vintage vinyl records and restore old turntables.<br><br>
