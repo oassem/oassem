@@ -11,7 +11,7 @@
 <p align="left">
   ✨ Over 5 years of full-stack development, currently working on a healthcare MVP featuring multi-tenant architecture.<br>
   📚 Diving deeper into Node.js and exploring prompt engineering.<br>
-  🎯 Goals: Master JS frameworks, contribute to open-source healthcare projects, and build scalable web apps.<br>
+  🎯 Aiming to master JS frameworks, contribute to open-source healthcare projects, and build scalable web apps.<br>
   🎲 Fun fact: I collect vintage vinyl records and restore old turntables.<br><br>
   <b>NOTE</b>: Feel free to explore my repositories, connect with me, or collaborate on exciting projects! 🤝
 </p>
@@ -57,7 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="mysql logo" />
-</div><br>
+</div>
 
 <h2 align="left">Connect With Me</h2>
 <div align="left">
