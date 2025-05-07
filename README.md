@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Header wave" />
+</p>
+
 <h1 align="left">Hello 👋 What's up?</h1>
 
 <p align="left">I'm Omar Assem, a mid-level software engineer and full-stack web developer at VEGA, based in KSA.</p>
