@@ -9,10 +9,10 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-  ✨ Over 5 years of full-stack development, currently building a healthcare MVP with multi-tenant architecture and integrations like NPHIES and Sahl AI.<br>
+  ✨ Over 5 years of full-stack development, currently building a healthcare MVP with multi-tenant architecture.<br>
   📚 Diving deeper into Node.js and exploring prompt engineering.<br>
   🎯 Goals: Master JS frameworks, contribute to open-source healthcare projects, and build scalable web apps.<br>
-  🎲 Fun fact: I collect vintage vinyl records and restore old turntables.<br>
+  🎲 Fun fact: I collect vintage vinyl records and restore old turntables.<br><br>
   <b>NOTE</b>: Feel free to fork or contribute to my projects. 🤝
 </p>
 
@@ -55,6 +55,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="mysql logo" />
 </div>
 
 <h2 align="left">Connect With Me</h2>
