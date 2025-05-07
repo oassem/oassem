@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" alt="Header wave" />
-</p>
-
 <h1 align="left">Hello 👋 What's up?</h1>
 
 <p align="left">I'm Omar Assem, a mid-level software engineer and full-stack web developer at VEGA, based in KSA.</p>
@@ -9,11 +5,11 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-  ✨ Over 5 years of full-stack development, currently building a healthcare MVP with multi-tenant architecture.<br>
+  ✨ Over 5 years of full-stack development, currently working on a healthcare MVP featuring multi-tenant architecture.<br>
   📚 Diving deeper into Node.js and exploring prompt engineering.<br>
   🎯 Goals: Master JS frameworks, contribute to open-source healthcare projects, and build scalable web apps.<br>
   🎲 Fun fact: I collect vintage vinyl records and restore old turntables.<br><br>
-  <b>NOTE</b>: Feel free to fork or contribute to my projects. 🤝
+  <b>NOTE</b>: Feel free to explore my repositories, connect with me, or collaborate on exciting projects! 🤝
 </p>
 
 <h2 align="left">I Code With</h2>
@@ -69,5 +65,7 @@
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer wave" />
 </p><br>
-<img src="https://github-readme-stats.vercel.app/api?username=oassem&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=oassem&show_icons=true&theme=radical" alt="GitHub Stats" /><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oassem&layout=compact&theme=radical" alt="Top Languages" />
+
 
