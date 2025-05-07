@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-</div>
+</div><br>
 
 <h3>Backend</h3>
 <div align="left">
@@ -48,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dotnet logo" />
-</div>
+</div><br>
 
 <h3>Databases</h3>
 <div align="left">
@@ -57,7 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="mysql logo" />
-</div>
+</div><br>
 
 <h2 align="left">Connect With Me</h2>
 <div align="left">
