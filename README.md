@@ -68,5 +68,6 @@
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer wave" />
-</p>
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe);" />
+</p><br>
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
