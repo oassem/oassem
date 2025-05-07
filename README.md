@@ -1,22 +1,20 @@
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" alt="Header wave" />
 </p>
 
 <h1 align="left">Hello 👋 What's up?</h1>
 
-###
+<p align="left">I'm Omar Assem, a mid-level software engineer and full-stack web developer at VEGA, based in KSA.</p>
 
-<p align="left">I'm Omar Assem, a mid-level software engineer and full-stack web developer currently working at VEGA, based in KSA.</p>
+<h2 align="left">About Me</h2>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Over 5 years of full-stack development, currently building a healthcare system with multi-tenant architecture.<br>📚 Currently diving deeper into Node.js development and exploring prompt engineering.<br>🎯 Goals: Master JS frameworks, contribute to open-source projects, and build scalable web applications.<br>🎲 Fun fact: I collect vintage vinyl records and enjoy restoring old turntables.<br><br><b>NOTE</b> : You can fork and contribute to any of the projects 🤝</p>
-
-###
+<p align="left">
+  ✨ Over 5 years of full-stack development, currently building a healthcare MVP with multi-tenant architecture and integrations like NPHIES and Sahl AI.<br>
+  📚 Diving deeper into Node.js and exploring prompt engineering.<br>
+  🎯 Goals: Master JS frameworks, contribute to open-source healthcare projects, and build scalable web apps.<br>
+  🎲 Fun fact: I collect vintage vinyl records and restore old turntables.<br>
+  <b>NOTE</b>: Feel free to fork or contribute to my projects. 🤝
+</p>
 
 <h2 align="left">I Code With</h2>
 
@@ -61,12 +59,11 @@
 
 <h2 align="left">Connect With Me</h2>
 <div align="left">
-  <a href="https://linkedin.com/in/oassem"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/omar-assem"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <img width="12" />
   <a href="mailto:oghazaly96@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" alt="Email" /></a>
 </div>
 
-###
-
 <p align="left">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer wave" />
 </p>
