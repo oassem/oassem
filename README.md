@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Omar Assem and I'm a mid-level software engineer, working as a full-stack web developer @VEGA located in KSA.</p>
+<p align="left">I'm Omar Assem, a mid-level software engineer and full-stack web developer currently working at VEGA, based in KSA.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015.<br>📚 I'm currently learning Node.js web development, in addition to, prompt engineering.<br>🎯 Goals: Master JS frameworks, contribute to open-source projects, and build scalable web applications.<br>🎲 Fun fact: I collect vintage vinyl records and enjoy restoring old turntables.<br><br><b>NOTE</b> : You can fork and contribute to any of the projects 🤝</p>
+<p align="left">✨ Creating bugs since 2015.<br>📚 Currently diving deeper into Node.js development and exploring prompt engineering.<br>🎯 Goals: Master JS frameworks, contribute to open-source projects, and build scalable web applications.<br>🎲 Fun fact: I collect vintage vinyl records and enjoy restoring old turntables.<br><br><b>NOTE</b> : You can fork and contribute to any of the projects 🤝</p>
 
 ###
 
