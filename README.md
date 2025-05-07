@@ -64,11 +64,11 @@
   <a href="https://linkedin.com/in/omar-assem"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
   <img width="12" />
   <a href="mailto:oghazaly96@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" alt="Email" /></a>
-</div><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=oassem&show_icons=true&theme=radical" alt="GitHub Stats" /><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oassem&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer wave" />
-</p>
+</p><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=oassem&show_icons=true&theme=radical" alt="GitHub Stats" /><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oassem&layout=compact&theme=radical" alt="Top Languages" />
