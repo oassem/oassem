@@ -64,6 +64,8 @@
   <a href="https://linkedin.com/in/omar-assem"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
   <img width="12" />
   <a href="mailto:oghazaly96@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" alt="Email" /></a>
+  <img width="12" />
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox" alt="Portfolio" /></a>
 </div>
 
 <p align="left">
