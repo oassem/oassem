@@ -10,9 +10,9 @@
 
 <p align="left">
   ✨ Over 5 years of full-stack development, currently working on a healthcare system featuring multi-tenant architecture.<br>
-  📚 Diving deeper into Node.js and exploring prompt engineering.<br>
   🎯 Aiming to master JS frameworks, contribute to open-source healthcare projects, and build scalable, modern web apps.<br>
-  🎲 Fun fact: I collect vintage vinyl records and restore old turntables.<br><br>
+  📚 Diving deeper into Node.js and exploring prompt engineering.<br>
+  🎲 Fun fact: I enjoy organizing my workspace – a tidy desk helps me think more clearly.<br><br>
   <b>NOTE</b>: Feel free to explore my repositories, connect with me, or collaborate on exciting projects! 🤝
 </p>
 
