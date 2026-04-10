@@ -9,9 +9,10 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-  ✨ Over 5 years of full-stack development, currently working on a healthcare system featuring multi-tenant architecture.<br>
+  ✨ Full-stack software engineer specializing in scalable healthcare systems and multi-tenant architecture.<br>
   🎯 Aiming to master JS frameworks, contribute to open-source healthcare projects, and build scalable, modern web apps.<br>
   📚 Diving deeper into Node.js and exploring prompt engineering.<br>
+  💡 Tech Focus: React, Node.js, PostgreSQL, Multi-tenant SaaS, Healthcare Systems.<br>
   🎲 Fun fact: I enjoy organizing my workspace – a tidy desk helps me think more clearly.<br><br>
   <b>NOTE</b>: Feel free to explore my repositories, connect with me, or collaborate on exciting projects! 🤝
 </p>
@@ -72,14 +73,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer wave" />
 </p><br>
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=oassem&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" 
-  />
-</p>
-
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oassem&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" 
-  />
-</p>
+<img src="https://komarev.com/ghpvc/?username=oassem&label=Profile%20views&color=0e75b6&style=flat" />
