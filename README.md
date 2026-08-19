@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" alt="Header wave" />
 </p>
 
-<h1 align="left">Hello 👋 What's up?</h1>
+<h1 align="left">Hello 👋 </h1>
 
 <p align="left">I'm Omar Assem, a software engineer and full-stack web developer at VEGA, based in KSA.</p>
 
@@ -11,7 +11,6 @@
 <p align="left">
   ✨ Full-stack software engineer specializing in scalable healthcare systems and multi-tenant architecture.<br>
   🎯 Aiming to master JS frameworks, contribute to open-source healthcare projects, and build scalable, modern web apps.<br>
-  📚 Diving deeper into Node.js and exploring prompt engineering.<br>
   💡 Tech Focus: React, Node.js, PostgreSQL, Multi-tenant SaaS, Healthcare Systems.<br><br>
   <b>NOTE</b>: Feel free to explore my repositories, connect with me, or collaborate on exciting projects! 🤝
 </p>
