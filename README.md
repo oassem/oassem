@@ -11,8 +11,8 @@
 <p align="left">
   ✨ Full-stack software engineer specializing in scalable healthcare systems and multi-tenant architecture.<br><br>
   🎯 Aiming to master JS frameworks, contribute to open-source healthcare projects, and build scalable, modern web apps.<br><br>
-  💡 Tech Focus: React, Node.js, PostgreSQL, Multi-tenant SaaS, Healthcare Systems.<br><br>
-  <b>NOTE</b>: Feel free to explore my repositories, connect with me, or collaborate on exciting projects! 🤝
+  💡 Tech Focus: React, Node.js, PostgreSQL, Multi-tenant SaaS, Healthcare Systems.<br><br><br>
+  <b>NOTE</b>: Feel free to explore my repositories, connect with me, or collaborate on exciting projects!
 </p>
 
 <h2 align="left">I Code With</h2>
