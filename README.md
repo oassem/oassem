@@ -4,7 +4,7 @@
 
 <h1 align="left">Hello 👋 What's up?</h1>
 
-<p align="left">I'm Omar Assem, a mid-level software engineer and full-stack web developer at VEGA, based in KSA.</p>
+<p align="left">I'm Omar Assem, a software engineer and full-stack web developer at VEGA, based in KSA.</p>
 
 <h2 align="left">About Me</h2>
 
